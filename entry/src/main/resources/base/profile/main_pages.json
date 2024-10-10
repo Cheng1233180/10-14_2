@@ -1,0 +1,7 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Login",
+    "pages/day13/onePage"
+  ]
+}
