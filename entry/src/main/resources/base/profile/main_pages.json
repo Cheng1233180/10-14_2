@@ -2,6 +2,7 @@
   "src": [
     "pages/Index",
     "pages/Login",
-    "pages/day13/onePage"
+    "pages/day13/onePage",
+    "pages/day13/meituan/MTIndex/MTIndex"
   ]
 }
